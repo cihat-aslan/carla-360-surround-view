@@ -33,7 +33,7 @@ Birleştirme için elle piksel noktası seçmedim. Kameranın FOV değerinden i�
 
 Görüntü işleme kısmı hızlı ama tüm döngü yavaş, çünkü zamanın çoğunu CARLA'nın 4 kamerayı render etmesi alıyor. Yani şu an gerçek zamanlı çalışmıyor, simülasyon gerçek zamandan yavaş akıyor.
 
-Ölçümleri şu bilgisayarda yaptım: `<CPU / GPU yaz>`
+Ölçümleri şu bilgisayarda yaptım: Intel Core i5-11320H, 16 GB RAM, NVIDIA GeForce RTX 3050 Ti Laptop GPU (4 GB). Laptop olduğu için CARLA tarafı yavaş kalıyor.
 
 ## Kurulum
 
